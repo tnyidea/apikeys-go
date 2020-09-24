@@ -1,0 +1,12 @@
+[
+  {
+    "userId": "sampleId",
+    "key": "Kn0NKHABiruvX3FM7s0J",
+    "expiration": "2099-12-31T23:59:59Z",
+    "permissions": [
+      "/sample/uri/one",
+      "/sample/uri/two",
+      "sample/uri/three"
+    ]
+  }
+]
