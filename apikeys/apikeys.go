@@ -18,8 +18,7 @@ type ApiKey struct {
 }
 
 type ApiKeyMap struct {
-	keyMap        map[string]ApiKey
-	permissionMap map[string]bool
+	keyMap map[string]ApiKey
 }
 
 func (a *ApiKey) Bytes() []byte {
